@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abed3c5e-3957-40bd-95f4-847ecf86a3e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task9.java" afterDir="false" />
-    </list>
+    <list default="true" id="abed3c5e-3957-40bd-95f4-847ecf86a3e2" name="Changes" comment="done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +19,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="43a84728-656e-4e7e-b407-cc8b5b1170ee" />
+        <option name="url" value="https://github.com/MakyKari/ADS.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -72,11 +66,23 @@
       <updated>1680338947471</updated>
       <workItem from="1680338948574" duration="1250000" />
       <workItem from="1680340219458" duration="15000" />
-      <workItem from="1680340242729" duration="4388000" />
+      <workItem from="1680340242729" duration="4769000" />
     </task>
+    <task id="LOCAL-00001" summary="done">
+      <created>1680344931197</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680344931197</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
 </project>
